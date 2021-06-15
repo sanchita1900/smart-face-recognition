@@ -1,0 +1,10 @@
+.signout {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.logo {
+  box-shadow: 2px;
+  padding-top: 0.5px;
+  padding-bottom: 4px;
+}
